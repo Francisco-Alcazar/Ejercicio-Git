@@ -14,7 +14,7 @@ public class pruebas {
 		char espacio = (char)32;
 
 		FileWriter write = new FileWriter(fichero2);
-		FileWriter write2 = new FileWriter(fichero, true); // Asi puedes añadir mas valores
+		FileWriter write2 = new FileWriter(fichero, true); // Asi puedes aï¿½adir mas valores
 		FileReader read = new FileReader(fichero);
 		System.out.println(fichero.getParent());
 		System.out.println(fichero.getPath());
@@ -71,7 +71,7 @@ public class pruebas {
 	
 	public static void inputStream() {
 		
-		
+		System.out.println("hOLA");
 		
 		
 	}
